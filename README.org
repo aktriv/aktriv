@@ -13,7 +13,7 @@ I'm a Computer Science and Mathematics student at the University of Maryland.
 
 ** Cool Desmos Projects
 
-+ [[https://github.com/SnootierMoon/Connect4Desmos][Connect 4]] 
++ [[https://github.com/aktriv/Connect4Desmos][Connect 4]] 
   - connect 4 game in desmos
 
 + [[https://www.desmos.com/calculator/qbog8sv7is][Acceleration vector field simulator]]
